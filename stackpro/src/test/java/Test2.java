@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
  *
  * @author akhilesh
  */
-public class StackTest1 {
+public class Test2 {
    @Test
     public void testPush() {
         System.out.println("push");
