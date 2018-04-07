@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
  *
  * @author akhilesh
  */
-public class StackTest {
+public class Test1 {
 
 
     
